@@ -1,0 +1,2 @@
+image_0.jpg,105,169,379,448,Coins
+image_1.jpg,38,135,387,467,Coins

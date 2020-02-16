@@ -1,0 +1,14 @@
+item {name: 'Coins',
+      id: 1,
+      display_name:'Coins'
+}
+
+item {name: 'f',
+      id: 2,
+      display_name:'f'
+}
+
+item {name: 'g',
+      id: 3,
+      display_name:'g'
+}
