@@ -1,0 +1,49 @@
+item {name: 'Mobile Phone',
+      id: 1,
+      display_name:'Mobile Phone'
+}
+
+item {name: 'Laptop',
+      id: 2,
+      display_name:'Laptop'
+}
+
+item {name: 'Glasses',
+      id: 3,
+      display_name:'Glasses'
+}
+
+item {name: 'Glasses Case',
+      id: 4,
+      display_name:'Glasses Case'
+}
+
+item {name: 'Glasses and Case',
+      id: 5,
+      display_name:'Glasses and Case'
+}
+
+item {name: 'Coin',
+      id: 6,
+      display_name:'Coin'
+}
+
+item {name: 'Coins',
+      id: 7,
+      display_name:'Coins'
+}
+
+item {name: 'Watch',
+      id: 8,
+      display_name:'Watch'
+}
+
+item {name: 'Key',
+      id: 9,
+      display_name:'Key'
+}
+
+item {name: 'Keys',
+      id: 10,
+      display_name:'Keys'
+}

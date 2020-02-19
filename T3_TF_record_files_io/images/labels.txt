@@ -1,0 +1,16 @@
+image_2.jpg,218,236,283,278,Keys
+image_2.jpg,227,283,343,355,Keys
+image_4.jpg,154,300,245,339,Key
+image_1.jpg,173,323,282,472,Mobile Phone
+image_2.jpg,324,215,454,382,Mobile Phone
+image_3.jpg,262,253,368,409,Mobile Phone
+image_4.jpg,91,181,246,357,Mobile Phone
+image_0.jpg,153,328,212,382,Coins
+image_0.jpg,277,237,405,306,Coins
+image_1.jpg,157,259,201,292,Coins
+image_1.jpg,406,276,443,317,Coins
+image_2.jpg,262,255,326,308,Coins
+image_3.jpg,268,208,328,299,Coins
+image_4.jpg,214,215,270,258,Coins
+image_0.jpg,264,339,402,422,Watch
+image_2.jpg,379,288,458,210,Watch
